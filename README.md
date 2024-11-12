@@ -9,6 +9,9 @@
 
 Christina Stoiber contributed to the library regarding conceptual design, evaluation, and publication.
 
+# DEPRECATION Information
+Please note that this project has been archived and is no longer being maintained.
+
 # What is VisAhoi?
 
 **VisAhoi is a library to onboard users to visualizations by explaining the data and visual encoding.** VisAhoi employs the visualization specifications of high-level descriptive visualization grammars from [ECharts](https://echarts.apache.org), [Plotly.js](https://plotly.com/javascript/), or [Vega-Lite](https://vega.github.io/vega-lite), and provides onboarding messages and anchors for different visualization types (e.g., bar chart, change matrix, horizon graph).
